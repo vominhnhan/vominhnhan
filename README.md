@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-### I'm Nhan
+## I'm Nhan
 <!--
 **vominhnhan/vominhnhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
